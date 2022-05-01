@@ -9,4 +9,4 @@ As linguagens avaliadas foram:
   - Python
   - JS
 
-Após serem feitos os teste era documentado a performance de cada linguagem perante a determinada atividade em uma [planilha](https://docs.google.com/spreadsheets/d/1ap3zAeLNxqc_UuzYdNrNPZ-dcs2GO7VZXgINkYcqYEQ/edit?usp=sharing) para fazer as relações entre as mesmas
+Após serem feitos os teste, era documentado a performance de cada linguagem perante a determinada atividade em uma [planilha](https://docs.google.com/spreadsheets/d/1ap3zAeLNxqc_UuzYdNrNPZ-dcs2GO7VZXgINkYcqYEQ/edit?usp=sharing) para fazer as relações entre as mesmas
